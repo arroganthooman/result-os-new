@@ -1,0 +1,18 @@
+ZCZC df
+Filesystem     1K-blocks    Used Available Use% Mounted on
+udev             2991660       0   2991660   0% /dev
+tmpfs             601308    7960    593348   2% /run
+/dev/sda2       65543732 2820360  59364140   5% /
+tmpfs            3006532       0   3006532   0% /dev/shm
+tmpfs               5120       0      5120   0% /run/lock
+tmpfs            3006532       0   3006532   0% /sys/fs/cgroup
+/dev/sdb2       65543732  493956  61690544   1% /mnt/lfs
+tmpfs             601304       0    601304   0% /run/user/1001
+ZCZC pwd
+/home/arroganthooman/RESULT/W08
+ZCZC date
+Thu 06 May 2021 09:20:10 AM WIB
+ZCZC hostname
+arroganthooman
+ZCZC chktoken
+arroganthooman 2010-0666

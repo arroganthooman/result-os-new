@@ -1,0 +1,27 @@
+ZCZC pwd
+/home/arroganthooman/RESULT/W08
+ZCZC date
+Thu 06 May 2021 08:28:31 AM WIB
+ZCZC df
+Filesystem     1K-blocks    Used Available Use% Mounted on
+udev             2991644       0   2991644   0% /dev
+tmpfs             601304    7976    593328   2% /run
+/dev/sda2       65543732 2819968  59364532   5% /
+tmpfs            3006516       0   3006516   0% /dev/shm
+tmpfs               5120       0      5120   0% /run/lock
+tmpfs            3006516       0   3006516   0% /sys/fs/cgroup
+/dev/sdb2       65543732   53272  62131228   1% /mnt/lfs
+tmpfs             601300       0    601300   0% /run/user/0
+tmpfs             601300       0    601300   0% /run/user/1001
+ZCZC hostnamectl
+   Static hostname: arroganthooman
+         Icon name: computer-vm
+           Chassis: vm
+        Machine ID: 3821e3074f7148e687322f91fdb6b4b3
+           Boot ID: f3d007c2d5e944b5a0ccd8a651c82237
+    Virtualization: oracle
+  Operating System: Debian GNU/Linux 10 (buster)
+            Kernel: Linux 4.19.0-16-amd64
+      Architecture: x86-64
+ZCZC chktoken
+arroganthooman 2832-7E0C
