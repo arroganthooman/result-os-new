@@ -1,0 +1,374 @@
+ZCZC ===== Chapter 05 =====  Week 09 =====
+ZCZC pwd /home/arroganthooman/RESULT/W09
+ZCZC date 210518-0855
+ZCZC hostname arroganthooman
+ZCZC username arroganthooman
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M	/mnt/lfs/sources/
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 5542-DF97 Verified
+ZCZC MaxLFS 482M
+ZCZC MaxROOT 2754M
+ZCZC MaxMemory 101M
+ZCZC MaxSwap 0M
+ZCZC MaxLFS 567M
+ZCZC MaxMemory 166M
+ZCZC MaxLFS 809M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 5644-71F8 Verified
+ZCZC MaxLFS 810M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 5746-EA73 Verified
+ZCZC MaxLFS 811M
+ZCZC MaxLFS 812M
+ZCZC MaxLFS 816M
+ZCZC MaxROOT 2755M
+ZCZC MaxMemory 210M
+ZCZC MaxLFS 823M
+ZCZC MaxLFS 829M
+ZCZC MaxLFS 834M
+ZCZC MaxMemory 285M
+ZCZC MaxLFS 837M
+ZCZC MaxROOT 2757M
+ZCZC MaxMemory 358M
+ZCZC MaxLFS 842M
+ZCZC MaxROOT 2758M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 5848-02C2 Verified
+ZCZC MaxLFS 881M
+ZCZC MaxLFS 892M
+ZCZC MaxLFS 897M
+ZCZC MaxLFS 903M
+ZCZC MaxLFS 925M
+ZCZC MaxLFS 939M
+ZCZC MaxLFS 955M
+ZCZC MaxMemory 392M
+ZCZC MaxLFS 1022M
+ZCZC MaxLFS 1035M
+ZCZC MaxLFS 1040M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 5951-AFDE Verified
+ZCZC MaxLFS 1050M
+ZCZC MaxLFS 1067M
+ZCZC MaxLFS 1180M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 0052-AF54 Verified
+ZCZC MaxLFS 1367M
+ZCZC MaxLFS 1473M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 0154-85A7 Verified
+ZCZC MaxLFS 1485M
+ZCZC MaxLFS 1504M
+ZCZC MaxLFS 1509M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 0256-534C Verified
+ZCZC MaxLFS 1510M
+ZCZC MaxLFS 1512M
+ZCZC MaxLFS 1514M
+ZCZC MaxLFS 1516M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 0358-EF3D Verified
+ZCZC MaxLFS 1522M
+ZCZC MaxLFS 1524M
+ZCZC MaxLFS 1530M
+ZCZC MaxLFS 1532M
+ZCZC MaxLFS 1541M
+ZCZC MaxLFS 1543M
+ZCZC MaxLFS 1545M
+ZCZC MaxLFS 1550M
+ZCZC MaxLFS 1551M
+ZCZC MaxLFS 1556M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 0501-14ED Verified
+ZCZC MaxLFS 1558M
+ZCZC MaxLFS 1561M
+ZCZC MaxLFS 1563M
+ZCZC MaxLFS 1565M
+ZCZC MaxLFS 1573M
+ZCZC MaxLFS 1575M
+ZCZC MaxLFS 1577M
+ZCZC MaxLFS 1578M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 0603-558F Verified
+ZCZC MaxLFS 1580M
+ZCZC MaxLFS 1582M
+ZCZC MaxLFS 1583M
+ZCZC MaxLFS 1584M
+ZCZC MaxLFS 1592M
+ZCZC MaxLFS 1593M
+ZCZC MaxLFS 1594M
+ZCZC MaxLFS 1596M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 0705-742E Verified
+ZCZC MaxLFS 1597M
+ZCZC MaxLFS 1598M
+ZCZC MaxLFS 1605M
+ZCZC MaxLFS 1611M
+ZCZC MaxLFS 1612M
+ZCZC MaxMemory 692M
+ZCZC MaxLFS 1616M
+ZCZC MaxMemory 745M
+ZCZC MaxLFS 1618M
+ZCZC MaxMemory 876M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 0807-969F Verified
+ZCZC MaxLFS 1624M
+ZCZC MaxLFS 1660M
+ZCZC MaxLFS 1662M
+ZCZC MaxLFS 1663M
+ZCZC MaxROOT 2762M
+ZCZC MaxLFS 1668M
+ZCZC MaxLFS 1669M
+ZCZC MaxLFS 1678M
+ZCZC MaxLFS 1689M
+ZCZC MaxLFS 1691M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 0910-0C81 Verified
+ZCZC MaxLFS 1696M
+ZCZC MaxMemory 1189M
+ZCZC MaxLFS 1699M
+ZCZC MaxMemory 1201M
+ZCZC MaxROOT 2764M
+ZCZC MaxMemory 1267M
+ZCZC MaxLFS 1707M
+ZCZC MaxLFS 1710M
+ZCZC MaxLFS 1712M
+ZCZC MaxLFS 1715M
+ZCZC MaxROOT 2773M
+ZCZC MaxLFS 1725M
+ZCZC MaxLFS 1728M
+ZCZC MaxMemory 1393M
+ZCZC MaxLFS 1731M
+ZCZC MaxMemory 1470M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 1014-7AE5 Verified
+ZCZC MaxLFS 1733M
+ZCZC MaxMemory 1687M
+ZCZC MaxLFS 1734M
+ZCZC MaxMemory 1809M
+ZCZC MaxLFS 1736M
+ZCZC MaxMemory 1856M
+ZCZC MaxLFS 1742M
+ZCZC MaxLFS 1745M
+ZCZC MaxLFS 1746M
+ZCZC MaxLFS 1754M
+ZCZC MaxLFS 1761M
+ZCZC MaxLFS 1764M
+ZCZC MaxLFS 1765M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 1117-6D6D Verified
+ZCZC MaxLFS 1770M
+ZCZC MaxLFS 1774M
+ZCZC MaxLFS 1791M
+ZCZC MaxLFS 1796M
+ZCZC MaxLFS 1799M
+ZCZC MaxLFS 1800M
+ZCZC MaxLFS 1804M
+ZCZC MaxLFS 1811M
+ZCZC MaxLFS 1812M
+ZCZC MaxROOT 2775M
+ZCZC MaxLFS 1818M
+ZCZC MaxMemory 1892M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 1221-8F35 Verified
+ZCZC MaxLFS 1820M
+ZCZC MaxROOT 2777M
+ZCZC MaxLFS 1825M
+ZCZC MaxMemory 2138M
+ZCZC MaxLFS 1826M
+ZCZC MaxMemory 2297M
+ZCZC MaxLFS 1829M
+ZCZC MaxLFS 1832M
+ZCZC MaxMemory 2440M
+ZCZC MaxLFS 1834M
+ZCZC MaxROOT 2778M
+ZCZC MaxLFS 1838M
+ZCZC MaxLFS 1839M
+ZCZC MaxROOT 2779M
+ZCZC MaxMemory 2464M
+ZCZC MaxLFS 1841M
+ZCZC MaxROOT 2782M
+ZCZC MaxMemory 2630M
+ZCZC MaxLFS 1845M
+ZCZC MaxROOT 2791M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 1324-67EB Verified
+ZCZC MaxLFS 1851M
+ZCZC MaxLFS 1855M
+ZCZC MaxROOT 2818M
+ZCZC MaxROOT 2819M
+ZCZC MaxLFS 1862M
+ZCZC MaxROOT 2822M
+ZCZC MaxLFS 1869M
+ZCZC MaxROOT 2828M
+ZCZC MaxLFS 1890M
+ZCZC MaxLFS 1902M
+ZCZC MaxLFS 1906M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 1427-4F57 Verified
+ZCZC MaxLFS 1913M
+ZCZC MaxLFS 1920M
+ZCZC MaxLFS 1922M
+ZCZC MaxLFS 1926M
+ZCZC MaxLFS 1936M
+ZCZC MaxLFS 1941M
+ZCZC MaxLFS 1943M
+ZCZC MaxLFS 1946M
+ZCZC MaxLFS 1951M
+ZCZC MaxLFS 1954M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 1531-EFC8 Verified
+ZCZC MaxLFS 1968M
+ZCZC MaxLFS 1970M
+ZCZC MaxLFS 1972M
+ZCZC MaxLFS 1979M
+ZCZC MaxLFS 1984M
+ZCZC MaxLFS 1991M
+ZCZC MaxLFS 1997M
+ZCZC MaxLFS 2001M
+ZCZC MaxLFS 2004M
+ZCZC MaxROOT 2837M
+ZCZC MaxLFS 2011M
+ZCZC MaxROOT 2839M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 1634-E4BF Verified
+ZCZC MaxLFS 2017M
+ZCZC MaxLFS 2020M
+ZCZC MaxROOT 2841M
+ZCZC MaxLFS 2024M
+ZCZC MaxROOT 2842M
+ZCZC MaxLFS 2029M
+ZCZC MaxROOT 2846M
+ZCZC MaxLFS 2036M
+ZCZC MaxLFS 2038M
+ZCZC MaxLFS 2043M
+ZCZC MaxLFS 2045M
+ZCZC MaxLFS 2052M
+ZCZC MaxLFS 2099M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 1737-BA51 Verified
+ZCZC MaxLFS 2105M
+ZCZC MaxLFS 2107M
+ZCZC MaxLFS 2112M
+ZCZC MaxLFS 2120M
+ZCZC MaxLFS 2125M
+ZCZC MaxLFS 2130M
+ZCZC MaxLFS 2132M
+ZCZC MaxLFS 2137M
+ZCZC MaxLFS 2143M
+ZCZC MaxLFS 2148M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 1840-DDC5 Verified
+ZCZC MaxLFS 2155M
+ZCZC MaxLFS 2157M
+ZCZC MaxLFS 2163M
+ZCZC MaxLFS 2165M
+ZCZC MaxLFS 2178M
+ZCZC MaxLFS 2181M
+ZCZC MaxLFS 2184M
+ZCZC MaxLFS 2185M
+ZCZC MaxLFS 2190M
+ZCZC MaxLFS 2206M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 1944-8567 Verified
+ZCZC MaxLFS 2212M
+ZCZC MaxLFS 2213M
+ZCZC MaxLFS 2223M
+ZCZC MaxLFS 2230M
+ZCZC MaxLFS 2234M
+ZCZC MaxLFS 2241M
+ZCZC MaxLFS 2249M
+ZCZC MaxLFS 2252M
+ZCZC MaxLFS 2258M
+ZCZC MaxLFS 2265M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 2047-1EA9 Verified
+ZCZC MaxLFS 2271M
+ZCZC MaxLFS 2273M
+ZCZC MaxLFS 2275M
+ZCZC MaxLFS 2291M
+ZCZC MaxLFS 2299M
+ZCZC MaxLFS 2304M
+ZCZC MaxLFS 2306M
+ZCZC MaxLFS 2309M
+ZCZC MaxLFS 2314M
+ZCZC MaxLFS 2322M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 2151-E6BD Verified
+ZCZC MaxLFS 2323M
+ZCZC MaxLFS 2326M
+ZCZC MaxLFS 2343M
+ZCZC MaxLFS 2344M
+ZCZC MaxLFS 2350M
+ZCZC MaxLFS 2357M
+ZCZC MaxLFS 2365M
+ZCZC MaxLFS 2370M
+ZCZC MaxLFS 2373M
+ZCZC MaxLFS 2377M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 2254-AF8F Verified
+ZCZC MaxLFS 2382M
+ZCZC MaxLFS 2395M
+ZCZC MaxLFS 2399M
+ZCZC MaxLFS 2403M
+ZCZC MaxLFS 2412M
+ZCZC MaxLFS 2414M
+ZCZC MaxLFS 2418M
+ZCZC MaxLFS 2423M
+ZCZC MaxLFS 2429M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 2357-A5BC Verified
+ZCZC MaxLFS 2440M
+ZCZC MaxLFS 2445M
+ZCZC MaxLFS 2450M
+ZCZC MaxLFS 2452M
+ZCZC MaxLFS 2457M
+ZCZC MaxLFS 2460M
+ZCZC MaxLFS 2463M
+ZCZC MaxLFS 2470M
+ZCZC MaxLFS 2475M
+ZCZC MaxLFS 2477M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 2501-B075 Verified
+ZCZC MaxLFS 2481M
+ZCZC MaxLFS 2493M
+ZCZC MaxLFS 2499M
+ZCZC MaxLFS 2508M
+ZCZC MaxLFS 2514M
+ZCZC MaxLFS 2548M
+ZCZC MaxLFS 2576M
+ZCZC MaxLFS 2585M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 2604-6E3C Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 2705-BB64 Verified
+ZCZC MaxROOT 2875M
+ZCZC MaxLFS 2595M
+ZCZC MaxLFS 2645M
+ZCZC MaxLFS 2754M
+ZCZC MaxLFS 2998M
+ZCZC MaxLFS 3063M
+ZCZC MaxLFS 3215M
+ZCZC MaxLFS 3466M
+ZCZC MaxMemory 2632M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 2813-A5E6 Verified
+ZCZC MaxLFS 3652M
+ZCZC MaxMemory 2634M
+ZCZC MaxLFS 3701M
+ZCZC MaxLFS 3702M
+ZCZC MaxLFS 3703M
+ZCZC MaxLFS 3704M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 2916-A25F Verified
+ZCZC MaxLFS 3708M
+ZCZC MaxLFS 3711M
+ZCZC MaxLFS 3712M
+ZCZC MaxLFS 3716M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 3018-B8FA Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 3119-6D8E Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 3221-10E7 Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 3323-7F41 Verified
+ZCZC MaxLFS 4015M
+ZCZC MaxLFS 4802M
+ZCZC MaxLFS 4837M
+ZCZC MaxLFS 4839M
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 3425-D79D Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 3526-A552 Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 3628-F857 Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 3729-749E Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 3831-728E Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 3933-C0C2 Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 4035-F4CF Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 4137-35DA Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 4239-497F Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 4340-F004 Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 4442-5531 Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 4544-DE81 Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 4645-1E45 Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 4747-17D4 Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 4849-4188 Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 4951-9AD5 Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 5052-70C6 Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 5154-348C Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 5256-39F0 Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 5358-1845 Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 5459-9592 Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 5601-989E Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 5703-2D6F Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 5805-F401 Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 5908-B1F3 Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 0011-1772 Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 0113-8816 Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 0214-60F4 Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 0316-9882 Verified
+ZCZC verifyTokenn arroganthoomanW09 arroganthooman 0418-EC27 Verified
